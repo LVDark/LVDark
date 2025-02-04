@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Alibey!
 
 I'm a Software Engineering student at **Istanbul Beykent University**. Currently, I'm diving into **Python** and **Data Science**. 🚀
 
