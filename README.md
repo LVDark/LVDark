@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hello, I'm [Your Name]!
 
-<!--
-**LVDark/LVDark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at **Istanbul Beykent University**. Currently, I'm diving into **Python** and **Data Science**. 🚀
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+- Python 🐍
+- Data Science 📊
+- C++ 💻
+- Java ☕
+- Software Requirements Engineering 📋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 About Me
+I'm passionate about technology and love solving problems through coding. 
+
+### 🔍 Current Projects
+I'm currently working on:
+- 100 Days of Code: The Complete Python Pro Bootcamp of Dr. Angela Yu on Udemy.
+
+### 💡 Inspiration
+My inspiration to pursue software engineering comes from my fascination with technology and mathematics. 
+
+### 🎮 Recommendations
+Some of my favorite video games include:
+- **Baldur's Gate 3** - A rich, story-driven RPG with deep character customization and strategic combat which I am fond of.
+- **Elden Ring** - An expansive open-world game that makes you experience challenging gameplay with a fascinating landscape.
+
+And for anime, I highly recommend:
+- **Bleach** - A high-energy series about soul reapers and their battles against evil spirits.
+- **Fullmetal Alchemist** - A tale of two brothers who use alchemy in their quest to restore what they've lost.
+
+You can check out my anime list here: [MyAnimeList Profile](https://myanimelist.net/profile/LV_Dark)
+
+In my free time, I also enjoy history 📜 and philosophy 🧠. You can find me exploring new tech trends or enjoying a good book when I'm not studying or coding. 📚
+
+## 🤔 Fun Fact
+I once tried to write a program to make my coffee, but all I got was a mug full of errors! ☕💻
+
+Feel free to connect with me! 🤝
