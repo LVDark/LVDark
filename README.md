@@ -28,7 +28,9 @@ And for anime, I highly recommend:
 - **Bleach** - A high-energy series about soul reapers and their battles against evil spirits.
 - **Fullmetal Alchemist** - A tale of two brothers who use alchemy in their quest to restore what they've lost.
 
-You can check out my anime list here: [MyAnimeList Profile](https://myanimelist.net/profile/LV_Dark)
+## 🔗 Connect with Me
+- [LinkedIn Profile](https://www.linkedin.com/in/alibey-%C3%B6zbay-b91072180/)
+- [Twitter Profile](https://x.com/Alibeybay) - I share thoughts on current events and personal interests rather than just technology and software.
 
 In my free time, I also enjoy history 📜 and philosophy 🧠. You can find me exploring new tech trends or enjoying a good book when I'm not studying or coding. 📚
 
