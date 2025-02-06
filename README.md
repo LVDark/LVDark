@@ -14,7 +14,7 @@ I'm passionate about technology and love solving problems through coding.
 
 ### 🔍 Current Projects
 I'm currently working on:
-- 100 Days of Code: The Complete Python Pro Bootcamp of Dr. Angela Yu on Udemy.
+- [100 Days of Code](https://github.com/LVDark/100-Days-of-Code): The Complete Python Pro Bootcamp of Dr. Angela Yu on Udemy.
 
 ### 💡 Inspiration
 My inspiration to pursue software engineering comes from my fascination with technology and mathematics. 
