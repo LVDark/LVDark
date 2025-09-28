@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Alibey!
 
-I'm a Software Engineering student at **Istanbul Beykent University**. Currently, I'm diving into **Python** and **Data Science**. 🚀
+I'm a Software Engineering student at **Istanbul Gelisim University**. Currently, I'm diving into **Python** and **Data Science**. 🚀
 
 ## 🌱 Currently Learning
 - Python 🐍
